@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LebekoChat</string>
+    <string name="enter_a_random_username">Enter a random username</string>
+    <string name="chatbox">\@string/chatbox</string>
+</resources>

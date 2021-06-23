@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1019919234925",
+    "firebase_url": "https://lebekochat-default-rtdb.firebaseio.com",
+    "project_id": "lebekochat",
+    "storage_bucket": "lebekochat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019919234925:android:8c642ab3f2367cf7280c64",
+        "android_client_info": {
+          "package_name": "com.example.lebekochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019919234925-ule8f85js675kmbqv74c3pkm6f0djkb7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lebekochat",
+            "certificate_hash": "9519a1bd0f3c4e1bd36ad18c5c1746a11094fb6f"
+          }
+        },
+        {
+          "client_id": "1019919234925-f5a2l2bqvkr6nnroq7o2n4vkl35vckva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8bt79W-suEFjLKx8epGtWy-8-xe7fV7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019919234925-f5a2l2bqvkr6nnroq7o2n4vkl35vckva.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

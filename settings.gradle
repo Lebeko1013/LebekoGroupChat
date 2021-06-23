@@ -1,0 +1,2 @@
+rootProject.name = "LebekoChat"
+include ':app'
